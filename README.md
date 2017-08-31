@@ -16,6 +16,10 @@ Part of Modern Developer CSS coursework
 - Repo: [Shipping and Billing Addresss Form](https://github.com/Zesc/P4-shipping-billing-form)
 - Live demo: [Shipping and Billing Addresss Form](https://zesc.github.io/P4-shipping-billing-form/)
 
-### Credi/Dbit Card Form
+### Credit/Debit Card Form
 - Repo: [credit/cdebit card form](https://github.com/Zesc/P4-credit-debit-card-form)
 - live demoe: [credit/debit card form](https://zesc.github.io/P4-credit-debit-card-form/)
+
+### Scheduling Form
+- Repo: [scheduling form](https://github.com/Zesc/P4-scheduling-form)
+- Live demo: [scheduling form](https://zesc.github.io/P4-scheduling-form/)
